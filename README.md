@@ -22,4 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=vladislave007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=vladislave007&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=vladislave007&icon=0&color=blue)](https://visitcount.itsvg.in)
