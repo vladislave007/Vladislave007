@@ -1,10 +1,7 @@
-<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="130" style="margin-right: 15px;">
+<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="110" style="margin-right: 15px;">
 
-<!-- Заголовок About Me (фиолетовый #9d4edd — виден везде) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=0&color=9d4edd&width=280&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me">
-<br>
-<!-- Анимированная строка (голубой #007ec6) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=100&color=007ec6&width=280&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding">
+<!-- Единый SVG-блок для заголовка и анимированной строки -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=100&color=9d4edd&width=320&height=70&lines=%F0%9F%92%AB+About+Me%3A;%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="About Me">
 
 <br clear="left"/>
 <br>
