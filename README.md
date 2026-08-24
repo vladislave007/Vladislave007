@@ -1,17 +1,12 @@
-<table border="0" style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;" valign="top" width="120">
-      <img src="photo_2026-08-24_15-38-37.jpg" width="130">
-    </td>
-    <td style="border: none;" valign="top">
-      <!-- Заголовок About Me (фиолетовый #9d4edd — виден на ЛЮБОЙ теме) -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=0&color=9d4edd&width=350&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me"><br>
-      <!-- Анимированная строка (голубой #007ec6) -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=100&color=007ec6&width=350&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding">
-    </td>
-  </tr>
-</table>
+<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="130" style="margin-right: 15px;">
 
+<!-- Заголовок About Me (фиолетовый #9d4edd — виден везде) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=0&color=9d4edd&width=280&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me">
+<br>
+<!-- Анимированная строка (голубой #007ec6) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=100&color=007ec6&width=280&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding">
+
+<br clear="left"/>
 <br>
 
 # 💻 Tech Stack:
