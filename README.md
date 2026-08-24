@@ -1,10 +1,12 @@
-<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="180" style="margin-right: 20px;">
+<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="150" style="margin-right: 20px;">
 
-<p style="font-size: 45px; font-weight: bold; margin: 0;">💫 About Me:</p>
+<!-- Статичный заголовок About Me -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=0&color=000000&width=400&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me">
 
-<p style="font-size: 30px;">
-  <code>&lt;/&gt;</code> <b>Learning, coding 📚💻</b>
-</p>
+<br>
+
+<!-- Анимированный текст с твоими эмодзи и более медленной печатью -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=100&color=007ec6&width=500&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding">
 
 <br clear="left"/>
 <br>
