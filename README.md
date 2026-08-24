@@ -1,7 +1,19 @@
-<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="110" style="margin-right: 15px;">
+<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="180" style="border-radius: 18px; margin-right: 25px; border: 2px solid #9d4edd; box-shadow: 0 10px 25px rgba(157, 78, 221, 0.3);">
 
-<!-- Единый SVG-блок для заголовка и анимированной строки -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=100&color=9d4edd&width=320&height=70&lines=%F0%9F%92%AB+About+Me%3A;%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="About Me">
+<!-- Заголовок About Me -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=0&color=9D4EDD&width=450&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me">
+<br>
+
+<!-- Анимированная строка -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00BFFF&width=450&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding">
+<br><br>
+
+<!-- Консольный блок без тега <p> (сидит строго справа от фото) -->
+<code><b>$ cat developer_info.sys</b></code><br>
+<font color="#9d4edd">├─</font> ⚡ <b>Focus:</b> Software Engineering & Logic<br>
+<font color="#9d4edd">├─</font> 🎯 <b>Goal:</b> Building clean & scalable projects<br>
+<font color="#9d4edd">├─</font> 🛠️ <b>Current Mode:</b> Active coding, debugging & learning<br>
+<font color="#9d4edd">└─</font> 🌐 <b>Status:</b> Ready to innovate
 
 <br clear="left"/>
 <br>
