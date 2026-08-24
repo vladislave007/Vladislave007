@@ -1,8 +1,8 @@
 <img src="photo_2026-08-24_15-38-37.jpg" align="left" width="180" style="margin-right: 20px;">
 
-<p style="font-size: 26px; font-weight: bold; margin: 0;">💫 About Me:</p>
+<p style="font-size: 45px; font-weight: bold; margin: 0;">💫 About Me:</p>
 
-<p style="font-size: 20px;">
+<p style="font-size: 30px;">
   <code>&lt;/&gt;</code> <b>Learning, coding 📚💻</b>
 </p>
 
