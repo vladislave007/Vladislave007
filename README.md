@@ -1,14 +1,9 @@
-<table width="100%">
-  <tr>
-    <td bgcolor="#e6f2ff">
-      <img src="photo_2026-08-24_15-38-37.jpg" align="left" width="220" style="margin-right: 20px;">
-      <h3>💫 About Me:</h3>
-      <code>&lt;/&gt;</code> Learning, coding 📚💻
-      <br clear="left"/>
-    </td>
-  </tr>
-</table>
+<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="220" style="margin-right: 20px;">
 
+<h3>💫 About Me:</h3>
+<code>&lt;/&gt;</code> Learning, coding 📚💻
+
+<br clear="left"/>
 <br>
 
 <h3>💻 Tech Stack:</h3>
