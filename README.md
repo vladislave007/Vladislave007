@@ -1,13 +1,10 @@
-<!-- Верхний блок: Картинка слева, описание справа -->
-<img src="avatar.png" align="left" width="180">
+<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="180" style="margin-right: 20px;">
 
 # 💫 About Me:
 `</>` Learning, coding 📚💻
 
 <br clear="left"/>
 <br>
-
-<!-- Остальная информация ниже -->
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
@@ -25,4 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=vladislave007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=vladislave007&icon=0&color=4)](https://visitcount.itsvg.in)-->
+[![](https://komarev.com/ghpvc/?username=vladislave007&icon=0&color=4)](https://visitcount.itsvg.in)
