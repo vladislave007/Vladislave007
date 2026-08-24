@@ -1,6 +1,6 @@
 <img src="photo_2026-08-24_15-38-37.jpg" align="left" width="180" style="margin-right: 20px;">
 
-<h2>💫 About Me:</h2>
+<p style="font-size: 26px; font-weight: bold; margin: 0;">💫 About Me:</p>
 
 <p style="font-size: 20px;">
   <code>&lt;/&gt;</code> <b>Learning, coding 📚💻</b>
