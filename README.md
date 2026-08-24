@@ -1,19 +1,16 @@
-<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="180" style="border-radius: 18px; margin-right: 25px; border: 2px solid #9d4edd; box-shadow: 0 10px 25px rgba(157, 78, 221, 0.3);">
+<img src="photo_2026-08-24_15-38-37.jpg" align="left" width="170" style="border-radius: 18px; margin-right: 20px; border: 2px solid #9d4edd;">
 
 <!-- Заголовок About Me -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=0&color=9D4EDD&width=450&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me">
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=1&pause=0&color=9D4EDD&width=450&height=35&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me"><br>
 
 <!-- Анимированная строка -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00BFFF&width=450&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding">
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00BFFF&width=450&height=30&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding"><br>
 
-<!-- Консольный блок без тега <p> (сидит строго справа от фото) -->
-<code><b>$ cat developer_info.sys</b></code><br>
-<font color="#9d4edd">├─</font> ⚡ <b>Focus:</b> Software Engineering & Logic<br>
+<!-- Дерево статуса без cat -->
+<font color="#9d4edd">├─</font> ⚡ <b>Focus:</b> Software Development | Logic<br>
 <font color="#9d4edd">├─</font> 🎯 <b>Goal:</b> Building clean & scalable projects<br>
-<font color="#9d4edd">├─</font> 🛠️ <b>Current Mode:</b> Active coding, debugging & learning<br>
-<font color="#9d4edd">└─</font> 🌐 <b>Status:</b> Ready to innovate
+<font color="#9d4edd">├─</font> 🛠️ <b>Mode:</b> Active coding & learning<br>
+<font color="#9d4edd">└─</font> 🌐 <b>Status:</b> Ready for skill improvement
 
 <br clear="left"/>
 <br>
