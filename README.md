@@ -1,6 +1,6 @@
 <table border="0" style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;" valign="top" width="180">
+    <td style="border: none;" valign="top" width="120">
       <img src="photo_2026-08-24_15-38-37.jpg" width="130">
     </td>
     <td style="border: none;" valign="top">
