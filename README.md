@@ -1,7 +1,7 @@
 <img src="photo_2026-08-24_15-38-37.jpg" align="left" width="180" style="margin-right: 20px;">
 
-# 💫 About Me:
-`</>` Learning, coding 📚💻
+<h3>💫 About Me:</h3>
+<code>&lt;/&gt;</code> Learning, coding 📚💻
 
 <br clear="left"/>
 <br>
