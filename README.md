@@ -1,5 +1,4 @@
 <!-- Левая гифка -->
-<img src="07b1e341-c19c-4ac9-86ce-f2e97224f3e1.gif" align="left" width="215" style="border-radius: 18px; margin-right: 20px; border: 2px solid #9d4edd;">
 
 <!-- Правая гифка (теперь плавает справа с вертикальным отступом) -->
 <img src="d78922f5-5a96-4eae-8e7c-321873fce65d.gif" align="right" width="445" style="border-radius: 18px; margin-left: 20px; margin-top: 15px; border: 2px solid #9d4edd;">
