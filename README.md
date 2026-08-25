@@ -16,8 +16,8 @@
 <font color="#9d4edd">├─</font> 🛠️ <b>Mode:</b> Coding & learning<br>
 <font color="#9d4edd">└─</font> 🌐 <b>Status:</b> Skill improvement
 
-<br clear="all"/>
-<br>
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
