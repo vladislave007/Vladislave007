@@ -1,5 +1,5 @@
 <img src="07b1e341-c19c-4ac9-86ce-f2e97224f3e1.gif" align="left" width="220" style="border-radius: 18px; margin-right: 20px; border: 2px solid #9d4edd;">
-
+<img src="" align="right" width="350" align="left" width="220" style="border-radius: 18px; margin-right: 20px; border: 2px solid #9d4edd;">
 
 <!-- Заголовок About Me -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=1&pause=0&color=9D4EDD&width=450&height=35&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me"><br>
