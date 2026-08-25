@@ -1,15 +1,13 @@
-<!-- Левая гифка -->
 
-<!-- Правая гифка (теперь плавает справа с вертикальным отступом) -->
-<img src="d78922f5-5a96-4eae-8e7c-321873fce65d.gif" align="right" width="500" style="border-radius: 18px; margin-left: 20px; margin-top: 15px; border: 2px solid #9d4edd;">
+<img src="d78922f5-5a96-4eae-8e7c-321873fce65d.gif" align="right" width="490" style="border-radius: 18px; margin-left: 20px; margin-top: 15px; border: 2px solid #9d4edd;">
 
-<!-- Заголовок About Me -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=1&pause=0&color=9D4EDD&width=350&height=35&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me"><br>
 
-<!-- Анимированная строка -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00BFFF&width=350&height=30&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding"><br>
 
-<!-- Дерево статуса -->
+
 <font color="#9d4edd">├─</font> ⚡ <b>Focus:</b> Software Dev<br>
 <font color="#9d4edd">├─</font> 🎯 <b>Goal:</b> Clean projects<br>
 <font color="#9d4edd">├─</font> 🛠️ <b>Mode:</b> Coding & learning<br>
