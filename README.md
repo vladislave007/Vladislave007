@@ -28,6 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=vladislave007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vladislave007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislave007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="07b1e341-c19c-4ac9-86ce-f2e97224f3e1.gif" align="right" width="250">
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vladislave007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
