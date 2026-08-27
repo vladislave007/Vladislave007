@@ -1,21 +1,15 @@
-
 <img src="d78922f5-5a96-4eae-8e7c-321873fce65d.gif" align="right" width="450" style="border-radius: 18px; margin-left: 20px; margin-top: 15px; border: 2px solid #9d4edd;">
-
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=1&pause=0&color=9D4EDD&width=350&height=35&lines=%F0%9F%92%AB+About+Me%3A&repeat=false" alt="About Me"><br>
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00BFFF&width=350&height=30&lines=%3C%2F%3E+Learning%2C+coding+%F0%9F%93%9D%F0%9F%92%BB&repeat=true" alt="Learning, coding"><br>
-
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#006400">├─</font> ⚡ <b>Focus:</b> Software Dev<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#9d4edd">├─</font> 🎯 <b>Goal:</b> Clean projects<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#9d4edd">├─</font> 🛠️ <b>Mode:</b> Coding & learning<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#9d4edd">└─</font> 🌐 <b>Status:</b> Skill improvement
 
-
-
+<div style="clear: both;"></div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
@@ -25,11 +19,11 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vladislave007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vladislave007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislave007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="07b1e341-c19c-4ac9-86ce-f2e97224f3e1.gif" align="right" width="250">
+<img src="07b1e341-c19c-4ac9-86ce-f2e97224f3e1.gif" align="right" width="200" style="border-radius: 18px; margin-left: 15px; border: 2px solid #9d4edd;">
 
+![](https://streak-stats.demolab.com/?user=vladislave007&theme=dark&hide_border=false)
+
+<div style="clear: both;"></div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vladislave007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
