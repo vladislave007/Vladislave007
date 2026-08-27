@@ -19,11 +19,12 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
 # 📊 GitHub Stats:
-<!-- Гифка слева -->
-<img src="07b1e341-c19c-4ac9-86ce-f2e97224f3e1.gif" align="left" width="220" style="border-radius: 18px; margin-right: 20px; border: 2px solid #9d4edd;">
 
-<!-- Статистика справа -->
-![](https://streak-stats.demolab.com/?user=vladislave007&theme=dark&hide_border=false)
+<!-- Статистика уходит в самую правую зеленую зону -->
+<img src="https://streak-stats.demolab.com/?user=vladislave007&theme=dark&hide_border=false" align="right">
+
+<!-- Гифка встает слева от статистики (в левую зеленую зону) -->
+<img src="07b1e341-c19c-4ac9-86ce-f2e97224f3e1.gif" width="180" style="border-radius: 18px; border: 2px solid #9d4edd; margin-left: 30px;">
 
 <div style="clear: both;"></div>
 
