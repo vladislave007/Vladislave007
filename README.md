@@ -6,8 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#006400">├─</font> ⚡ <b>Focus:</b> Software Dev<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#9d4edd">├─</font> 🎯 <b>Goal:</b> Clean projects<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#9d4edd">├─</font> 🛠️ <b>Mode:</b> Coding & learning<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#9d4edd">└─</font> 🌐 <b>Status:</b> Skill improvement
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#9d4edd">├─</font> 🛠️ <b>Mode:</b> Coding<br>
 
 <div style="clear: both;"></div>
 
